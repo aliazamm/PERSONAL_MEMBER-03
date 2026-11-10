@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.personalmember.app'
+    namespace 'com.eventcalender.app'
     compileSdk 35
 
     defaultConfig {
