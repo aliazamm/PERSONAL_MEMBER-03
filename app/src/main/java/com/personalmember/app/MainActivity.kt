@@ -1,4 +1,4 @@
-package com.personalmember.app
+package com.eventcalender.app
 
 import android.app.Activity
 import android.os.Bundle
