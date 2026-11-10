@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "PERSONAL_MEMBER"
+rootProject.name = "Event Calender"
 include(":app")
