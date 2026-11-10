@@ -20,7 +20,7 @@ class MainActivity : Activity() {
     private var uploadCallback: ValueCallback<Array<Uri>>? = null
 
     private val homeUrl =
-        "https://script.google.com/macros/s/AKfycbxx-mevRhYyly9P3cS-RbNsL437lPbEuJ2MTWrySfNF3oPoLBlKNyJhVhBI5HmXySEu/exec"
+        "https://script.google.com/macros/s/AKfycbx10qxP0XUh3Yke0J2pU2mmDeHxSpeC4UbhluBQv6OJeOeeDXTZDrGEjOkrD_QzdhDq/exec"
 
     companion object {
         private const val FILE_CHOOSER_REQUEST = 1001
