@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.eventcalender.app'
+    namespace 'com.VR Investigation Management.app'
     compileSdk 35
 
     defaultConfig {
