@@ -1,4 +1,4 @@
-package com.eventcalender.app
+package com.VR Investigation Management.app
 
 import android.app.Activity
 import android.os.Bundle
@@ -20,7 +20,7 @@ class MainActivity : Activity() {
     private var uploadCallback: ValueCallback<Array<Uri>>? = null
 
     private val homeUrl =
-        "https://script.google.com/macros/s/AKfycbx10qxP0XUh3Yke0J2pU2mmDeHxSpeC4UbhluBQv6OJeOeeDXTZDrGEjOkrD_QzdhDq/exec"
+        "https://script.google.com/macros/s/AKfycbw74L9p6BSivgxWYpKX1wRNSemAbsIX7reU1MbSbVrDvJXhy5kbI4jkxMjEmOAdaCbCaA/exec"
 
     companion object {
         private const val FILE_CHOOSER_REQUEST = 1001
