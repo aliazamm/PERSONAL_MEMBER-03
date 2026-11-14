@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'VIMS.app'
+    namespace 'VR Investigation Management.app'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'VIMS.app'
+        applicationId 'VR Investigation Management.app'
         minSdk 23
         targetSdk 35
         versionCode 1
