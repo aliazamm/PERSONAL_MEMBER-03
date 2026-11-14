@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'VRMS.app'
+    namespace 'VIMS.app'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'VRMS.app'
+        applicationId 'VIMS.app'
         minSdk 23
         targetSdk 35
         versionCode 1
