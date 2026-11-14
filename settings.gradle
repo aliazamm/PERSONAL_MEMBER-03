@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Event Calender"
+rootProject.name = "VR Investigation Management"
 include(":app")
