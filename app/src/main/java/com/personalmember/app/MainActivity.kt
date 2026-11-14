@@ -1,4 +1,4 @@
-package com.VR Investigation Management.app
+package com.VR INVESTIGATION MANAGEMENT.app
 
 import android.app.Activity
 import android.os.Bundle
