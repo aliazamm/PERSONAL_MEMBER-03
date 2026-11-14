@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.VR Investigation Management.app'
+    namespace 'VRMS.app'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'VR Investigation Management.app'
+        applicationId 'VRMS.app'
         minSdk 23
         targetSdk 35
         versionCode 1
